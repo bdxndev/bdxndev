@@ -1,5 +1,5 @@
-<h1 align="center">Howdy, I'm Braydxn</h1>
-<h3 align="center">Dedicated developer</h3>
+<h1 align="center">Howdy</h1>
+<h3 align="center">Dedicated & Skilled developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
